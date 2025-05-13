@@ -1,0 +1,7 @@
+# This script will:
+# - Prompt for PBSO credentials
+# - Log in to the PBSO Media Blotter
+# - Navigate to the inmate search page
+# - (Next steps) Search for an inmate and extract cell location, custody duration, and release status
+
+# Run with: python main.py
